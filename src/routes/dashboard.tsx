@@ -38,7 +38,7 @@ import { OverviewView } from "@/components/OverviewView";
 export const Route = createFileRoute("/dashboard")({
   head: () => ({
     meta: [
-      { title: "Dashboard — Smart Failure Detection" },
+      { title: "Dashboard — Signal" },
       { name: "description", content: "Executive Risk & Assessment Dashboard" },
     ],
   }),

@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Assets/Smart%20Logo%20White.png">
   <source media="(prefers-color-scheme: light)" srcset="Assets/Smart%20Logo%20Black.png">
-  <img alt="Smart Failure Detection Logo" src="Assets/Smart%20Logo%20White.png" width="180" />
+  <img alt="Signal Logo" src="Assets/Smart%20Logo%20White.png" width="180" />
 </picture>
 
-# 🚀 Smart Failure Detection
+# 🚀 Signal
 
 ### *AI-Powered Startup Failure Prediction & Market Intelligence Platform*
 
@@ -52,7 +52,7 @@
 
 ## 🌟 Introduction of the Project
 
-An intelligent, full-stack decision-support workspace called **Smart Failure Detection** was created to assist product teams, venture capitalists, and entrepreneurs in assessing the feasibility of early-stage firms both numerically and qualitatively.
+An intelligent, full-stack decision-support workspace called **Signal** was created to assist product teams, venture capitalists, and entrepreneurs in assessing the feasibility of early-stage firms both numerically and qualitatively.
 
 The platform functions as an automated venture due diligence analyst by fusing the real-time reasoning of **Google Gemini 2.5 Flash** with the predictive power of a **custom Machine Learning model** (trained on 66,000+ historical startup outcomes from the [Crunchbase Startup Success/Fail Dataset on Kaggle](https://www.kaggle.com/datasets/yanmaksi/big-startup-secsees-fail-dataset-from-crunchbase)).
 
@@ -74,7 +74,7 @@ It's common knowledge in venture capital that **over 90% of early-stage startups
 - Ignoring intense competition and distribution moats.
 - Operating within an echo chamber without unbiased, quantitative data.
 
-Early-stage founders cannot access traditional venture due diligence, which is slow and opaque. Static spreadsheets are unable to capture the dynamics of the market in real time, and generic chatbots lack mathematical rigor. This gap is filled by smart failure detection.
+Early-stage founders cannot access traditional venture due diligence, which is slow and opaque. Static spreadsheets are unable to capture the dynamics of the market in real time, and generic chatbots lack mathematical rigor. This gap is filled by Signal.
 
 ---
 
@@ -165,7 +165,7 @@ Early-stage founders cannot access traditional venture due diligence, which is s
 
 ```
 ┌────────────────────────────────────────────────────────────────┐
-│                   Smart Failure Detection                      │
+│                            Signal                              │
 ├────────────────────────────────────────────────────────────────┤
 │                                                                │
 │  ┌──────────────────────────────────────────────────────────┐  │
